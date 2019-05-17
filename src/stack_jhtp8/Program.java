@@ -1,7 +1,7 @@
 /*
  * LIFO (Last in, First out) = Pilha (stack)
  */
-package stack;
+package stack_jhtp8;
 
 public class Program {
 

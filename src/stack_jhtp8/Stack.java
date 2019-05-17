@@ -1,4 +1,4 @@
-package stack;
+package stack_jhtp8;
 
 public class Stack {
 
